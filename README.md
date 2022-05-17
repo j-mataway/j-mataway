@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jim Mataway</h1>
-<h3 align="center">Software Engineer from Rochester Michigan building creative solutions for complex problems</h3>
+<h3 align="center">Software Engineer from Rochester, Michigan building creative solutions for complex problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-mataway&label=Profile%20views&color=0e75b6&style=flat" alt="j-mataway" /> </p>
 
