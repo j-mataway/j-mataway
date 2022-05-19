@@ -1,4 +1,4 @@
-<h1> Hi, My name is Jim Mataway</h1>
+<h1 align=center> Hi, My name is Jim Mataway</h1>
 <h3 align="center">I am a software engineer from Rochester, Michigan</h3>
 
 <p align="center">
