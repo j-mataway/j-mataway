@@ -70,7 +70,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
       <h3 align="center">Striker's Bowling Alley</h3>
       <br />
         <a target="_blank" href="https://j-mataway.github.io/strikers/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/j-mataway/strikers/blob/main/images/strikers.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
