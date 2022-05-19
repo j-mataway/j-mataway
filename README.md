@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jim Mataway</h1>
+<img src="https://github.com/j-mataway/portfolio/blob/main/images/me.jpg" width=100%>
 <h3 align="center">I am a software engineer from Rochester, Michigan</h3>
 
 <p align="center">
