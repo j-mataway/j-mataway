@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jim Mataway</h1>
-<h3 align="center">I am a software Engineer from Rochester, Michigan</h3>
+<h3 align="center">I am a software engineer from Rochester, Michigan</h3>
 
 <p align="center">
   <a href="https://j-mataway.github.io/portfolio/" target="_blank">
