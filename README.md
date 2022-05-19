@@ -29,3 +29,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-mataway&show_icons=true&locale=en" alt="j-mataway" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-mataway&" alt="j-mataway" /></p>
+
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://j-mataway.github.io/portfolio/">My Portfolio</a>
+        <br />
+      <a target="_blank" href="https://j-mataway.github.io/portfolio/">
+            <img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif" width="100%"  alt="My Portfolio"/>
+        </a>
+    </td>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://j-mataway.github.io/strikers/">Striker's Bowling Alley</a>
+        <br />
+      <a target="_blank" href="https://j-mataway.github.io/strikers/">
+            <img src="https://github.com/j-mataway/strikers/blob/main/images/strikers.gif" width="100%"  alt="Striker's"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://melraemakers.com/">MelRae Makers Blog</a>
+      <br />
+        <a target="_blank" href="https://melraemakers.com/">
+          <img src="https://github.com/j-mataway/melraeblog/blob/main/MelRaeDesign/images/melraedesign.gif" width="100%" alt="MelRae Makers Blog"/>
+        </a>
+    </td>
+  </tr>
+</table>
