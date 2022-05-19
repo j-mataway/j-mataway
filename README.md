@@ -14,7 +14,7 @@
   <a href="https://angel.co/u/jim-mataway" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://s3.amazonaws.com/attachments.angel.co/6960471-64101a49d618f55dc63b032d9de9f2c0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220519T170811Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=500ca252b179a99a3e206bde3dc52184ebefb8cbd42db10544957345ec43936f" target="_blank">
+  <a href="https://s3.amazonaws.com/attachments.angel.co/6960471-64101a49d618f55dc63b032d9de9f2c0.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220519T191053Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=df647b195ce3c7c72054fb56810465ead1ed65b8cf888ce5ccf8d2d3607a6212" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
