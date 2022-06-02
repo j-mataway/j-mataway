@@ -43,7 +43,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong>My Portfolio Website</p>
+        <p><strong>HTML5, CSS3, Javascript</strong> My Portfolio Website</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MelRae Makers Blog</h3>
