@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Motivated by a love of technology and problem solving has driven me to create practical solutions for everyday problems.
+I am motivated by a love of technology and problem solving which has driven me to create practical solutions for everyday complex problems.
 
 If you want to know more, please visit [my website](https://j-mataway.github.io/portfolio/)
 
