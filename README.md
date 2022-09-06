@@ -34,8 +34,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
             <img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif" width="100%" alt="Bowling Alley Website"/>
         </a>
         <br />
-        <p align="center">
-          
+        <p align="center">          
   <a href="https://github.com/j-mataway/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -45,6 +44,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> My Portfolio Website</p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">MelRae Makers Blog</h3>
         <br />
@@ -83,7 +83,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Static Site for a local bowling alley including their restaurant and arcade.</p>
     </td>
-   </tr>
+ 
    <td width="50%" valign="top">
       <h3 align="center">Stay in the Hunt(SITH) App for 100Devs</h3>
         <br />
@@ -102,6 +102,7 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
       </p>
         <p><strong>HTML5, CSS3, Javascript</strong> Stay in the Hunt App(100Devs)</p>
     </td>
+    </tr>
 </table>
 
 
