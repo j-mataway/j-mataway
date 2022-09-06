@@ -83,6 +83,24 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Static Site for a local bowling alley including their restaurant and arcade.</p>
     </td>
+        <td width="50%" valign="top">
+      <h3 align="center">Stay in the Hunt(SITH) App for 100Devs</h3>
+        <br />
+      <a target="_blank" href="https://sith.up.railway.app/">
+            <img src="https://github.com/j-mataway/todo-mvc-auth-local/blob/main/public/images/ss.png" width="100%"  alt="Calendar App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/j-mataway/todo-mvc-auth-local" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sith.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, PHP, CSS3, Javascript</strong> - Full stack calendar app to track daily taks for 100Devs </p>
+    </td>
    </tr>
 </table>
 
