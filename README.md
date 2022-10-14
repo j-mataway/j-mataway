@@ -102,6 +102,26 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
         <p><strong>HTML5, CSS3, Javascript, Node.js, MongoDB</strong> - Full stack calendar app to track daily tasks for 100Devs </p>
     </td>
    </tr>
+     <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Website</h3>
+        <br />
+        <a target="_blank" href="https://j-mataway.github.io/portfolio/">
+            <img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/j-mataway/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://j-mataway.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript</strong> - My Portfolio Website</p>
+    </td>
+    </tr>
 </table>
 
 
