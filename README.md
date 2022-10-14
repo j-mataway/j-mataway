@@ -28,22 +28,22 @@ If you want to know more, please visit [my website](https://j-mataway.github.io/
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">My Website</h3>
+      <h3 align="center">MySchedule </h3>
         <br />
-        <a target="_blank" href="https://j-mataway.github.io/portfolio/">
-            <img src="https://github.com/j-mataway/portfolio/blob/main/images/portfolio.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://web-production-74ed.up.railway.app/">
+            <img src="https://github.com/j-mataway/MyScheduler/blob/main/public/images/myscheduless.png" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/j-mataway/portfolio" target="_blank">
+  <a href="https://github.com/j-mataway/MyScheduler" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://j-mataway.github.io/portfolio/" target="_blank">
+  <a href="https://web-production-74ed.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript</strong> - My Portfolio Website</p>
+        <p><strong>HTML5, CSS3, Javascript, EJS, Node.js, MongoDB</strong> - Restaurant Franchise Scheduling App</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MelRae Makers Blog</h3>
